@@ -1,0 +1,29 @@
+lifitext
+│
+├── manifests
+│   └── AndroidManifest.xml
+│
+├── java
+│   └── com.rajnandanpatil100.lifitext
+│       └── MainActivity.java
+│
+├── res
+│   │
+│   ├── drawable
+│   │   ├── btn_bg.xml
+│   │   ├── gradient_bg.xml
+│   │   ├── green_dot.xml
+│   │   ├── ic_launcher_background.xml
+│   │   ├── ic_launcher_foreground.xml
+│   │   └── status_pill_bg.xml
+│   │
+│   ├── layout
+│   │   └── activity_main.xml
+│   │
+│   ├── mipmap
+│   │
+│   ├── values
+│   │
+│   └── xml
+│
+└── Gradle Scripts
